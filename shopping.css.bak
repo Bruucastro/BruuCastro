@@ -1,0 +1,83 @@
+body {
+ 
+
+}
+
+h1{
+font: helvetica;
+text-align: center;
+color: #8B008B;
+font-size:xxx-large
+
+}
+
+h2{
+font: helvetica;
+text-align: center;
+color: #82b74b;
+font-size:x-large
+}
+
+h3{
+font: helvetica;
+text-align: center;
+color: #8A2BE2;
+font-size:large
+}
+
+h4{
+font: helvetica;
+text-align: center;
+color: #8A2BE2;
+font-size:large
+}
+
+h5{
+font: helvetica;
+text-align: center;
+color: #8A2BE2;
+font-size:large
+}
+
+h6{
+font: helvetica;
+text-align: center;
+color: black;
+font-size:medium;
+}
+
+p{
+	
+font: helvetica	;
+text-align: center;
+color: black;
+font-size:medium;
+}
+
+
+a{
+font: helvetica;
+text-align: center;
+font-weight: 300;
+color: #9932CC;
+background: #D8BFD8;
+
+
+
+.container1{
+    display: flex;
+    gap:30px;
+    justify-content: center;
+    margin: 0 auto;
+	margin-bottom: 30px;
+}
+
+.toys{
+    position: relative;
+    width: 400px;
+}
+
+.toys{
+    display: block;
+    width: 100%;
+}

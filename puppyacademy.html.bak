@@ -1,0 +1,74 @@
+<!doctype html> 
+
+<html lang="en">
+
+<head>
+		
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<title> Puppy Academy </title>
+		<link rel="stylesheet" href="puppyacademy.css">
+		
+</head>
+
+<body>
+
+<div>
+
+<p>
+  <img src="labelup.jpg">
+  
+  </p>
+</a></div>
+
+<p </p>
+
+  <img src="puppyacademy.jpg" alt="DogFest Header" >
+  
+</div>
+		
+	
+		<h3>* What is it? *</br></h3> 
+
+<h6>The basic definition is that schools serve precisely to train dogs, if the owner does not have much time available in his day-to-day to do so..</br>
+    When talking exclusively about dog schools, owners are usually unaware of their existence and functioning.</br>
+
+    But, exactly what the name promises, it is a school, similar to the ones where children go, spend the day studying and return home.</br></h6>
+
+</div>
+
+<h4>* Learning at School * </h4></br>
+
+<h6>The school, which is aimed at the canine public, has some activities related to dog training. But despite this, students are entitled to nap time, </br>
+playtime and snack time. They often also offer more relaxing activities like massage, swimming lessons and games. </br></h6>
+
+<h5>* Benefits *</br></h5>
+
+<h6>Both for puppies and older dogs, schools offer comfort for all types of age, always taking care of the care and needs of each dog. </br>
+
+From ramps, toys, pool baths, massages and nap time, all dogs can participate in what is proposed in the plan, to improve not only their education but </br>
+also provide them with company during the day.</br></h6>
+
+</div>
+
+<div id="carregando" class="center" align="center">
+
+<iframe width="450" height="253" src="https://www.youtube.com/embed/ksSDEPp3hGg" title="YouTube video player" 
+frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" align="middle"></iframe>
+
+</div>
+
+</div>
+
+    <a href="dogfest.html" <button>Back Site</button></a>
+
+<p>
+  <img src="puppylabel.jpg">
+  
+  </p>
+</a></div>
+
+
+</body>
+
+</html>

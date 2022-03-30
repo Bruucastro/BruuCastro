@@ -1,0 +1,87 @@
+body{
+	
+	margin: 0;
+	padding: 0;
+
+}
+
+h1{
+font: Verdana;
+text-align: center;
+color: #293156;
+font-size:2vw
+}
+
+p{
+font: Verdana;
+text-align: center;
+color: black;
+font-size:1vw;
+}
+
+a{
+font: Verdana;
+text-decoration: none;
+color: red;
+}
+
+.container1{
+    display: flex;
+    gap:30px;
+    justify-content: center;
+    margin: 0 auto;
+	margin-bottom: 30px;
+}
+
+.dog1{
+    position: relative;
+    width: 400px;
+}
+
+.dog1__img{
+    display: block;
+    width: 100%;
+}
+
+.dog2{
+    position: relative;
+    width: 400px;
+}
+
+.dog2__img{
+    display: block;
+    width: 100%;
+}
+
+
+.container2{
+     display: flex;
+    gap:30px;
+    justify-content: center;
+    margin: 0 auto;
+	margin-bottom: 30px;
+}
+
+.dog3{
+    position: relative;
+    width: 400px;
+}
+
+.dog3__img{
+    display: block;
+    width: 100%;
+}
+
+.dog4{
+    position: relative;
+    width: 400px;
+}
+
+.dog4__img{
+    display: block;
+    width: 100%;
+
+
+	
+
+

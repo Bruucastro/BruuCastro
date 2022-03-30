@@ -1,0 +1,70 @@
+<!doctype html> 
+
+<html lang="en">
+
+<head>
+		
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<title> DogFest 2021 </title>
+		<link rel="stylesheet" href="Dogfest.css">
+		
+</head>
+
+<body>
+
+<div>
+
+<p </p>
+  <img src="dogfest-color3.jpg" alt="DogFest Header" >
+</a></div>
+		
+<div><h1> WELCOME TO DOGFEST 2021 </h1></div>
+
+<div><p>
+We are so excited to bring DogFest back for 2021! Join a community of dog lovers as we celebrate our very best friends. Get advice from industry<br> 
+experts, take part in our adventurous and exciting have-a-go activities, shop unique pet products and watch phenomenal arena displays!<br>
+
+At DogFest we are taking every precaution to ensure the highest level of safety in light of the COVID-19 Pandemic, to ensure the health and well-<br>
+being of all our humans and dogs, whilst providing the best day out possible. We continuously monitor government advice to ensure the<br>
+experience we provide complies and offers a risk-free experience for all our visitors. You can book in confidence knowing in the unlikely event we<br> 
+can't go ahead we guarantee a 100% refund or transfer of tickets. For more information on how we are keeping you and your dogs safe. <b><a href="https://www.dog-fest.co.uk" target="_blank"> Click Here</a></b></p></br>
+</div></p>
+
+<div class="container1">
+
+    <div class="dog1">
+	    <a href="haveago.html"><img class="dog1" src="dog1.jpg" alt="profile"></a>			
+	    </div>
+
+    <div class="dog2">
+        <a href="shopping.html"><img class="dog2" src="dog2.jpg" alt="profile"><a/>		
+		</div>
+		
+</div>
+	
+<div class="container2">
+
+    <div class="dog3">
+        <a href="puppyacademy.html"><img class="dog3" src="dog3.jpg" alt="profile"><a/>		
+		</div>
+
+    <div class="dog4">
+        <a href="dog4.html"><img class="dog4" src="dog4.jpg" alt="profile"><a/>
+		 </div>
+		 
+
+</div>
+
+<p </p>
+  <img src="endpage1.jpg" alt="profile" >
+</a></div>
+  
+
+</body>
+
+</html>
+
+
+
+		

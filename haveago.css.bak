@@ -1,0 +1,94 @@
+body{
+
+}
+
+h1{
+font: helvetica;
+text-align: center;
+color: #405d27;
+font-size:xx-large
+
+}
+
+h2{
+font: helvetica;
+text-align: center;
+color: #82b74b;
+font-size:x-large
+}
+
+h3{
+font: helvetica;
+text-align: center;
+color: #82b74b;
+font-size:large
+}
+
+h4{
+font: helvetica;
+text-align: center;
+color: #82b74b;
+font-size:large
+}
+
+h5{
+font: helvetica;
+text-align: center;
+color: #82b74b;
+font-size:large
+}
+
+h6{
+font: helvetica;
+text-align: center;
+color: black;
+font-size:medium;
+}
+
+p{
+	
+font: helvetica;
+text-align: center;
+color: black;
+font-size:medium;
+}
+
+a{
+font: helvetica;
+text-align: center;
+font-weight: 300;
+color: #006400;
+background: #FFFFE0;
+padding: 5px;
+border-bottom: 1px solid #fff;
+
+}
+
+
+
+.container1{
+    display: flex;
+    gap:30px;
+    justify-content: center;
+    margin: 0 auto;
+	margin-bottom: 30px;
+}
+
+.dog5{
+    position: relative;
+    width: 400px;
+}
+
+.dog5__img{
+    display: block;
+    width: 100%;
+	
+	
+
+
+		
+		
+
+
+
+

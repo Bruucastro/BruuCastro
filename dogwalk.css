@@ -1,0 +1,64 @@
+body {
+  background-color: #228B22;
+  margin-left: 0.0%;
+  margin-right: 0.0%;
+  margin: 0%;
+}
+
+h1{
+font: helvetica;
+text-align: center;
+color: #00008b;
+font-size:xxx-large
+
+}
+
+h2{
+font: helvetica;
+text-align: center;
+color: #82b74b;
+font-size:x-large
+}
+
+h3{
+font: helvetica;
+text-align: center;
+color: #ffffff;
+font-size:x-large
+}
+
+h4{
+font: helvetica;
+text-align: center;
+color: #ffffff;
+font-size:x-large
+}
+
+h5{
+font: helvetica;
+text-align: center;
+color: #ffffff;
+font-size:x-large
+}
+
+h6{
+font: helvetica;
+text-align: center;
+color: black;
+font-size:medium;
+}
+
+p{
+	
+font: helvetica	;
+text-align: center;
+color: black;
+font-size:medium;
+}
+
+a{
+font: helvetica;
+text-align: center;
+font-weight: 600;
+color: #FFFFFF;
+

@@ -1,0 +1,53 @@
+<!doctype html> 
+
+<html lang="en">
+
+<head>
+		
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<title> Shopping </title>
+		<link rel="stylesheet" href="shopping.css">
+		
+</head>
+
+<body>
+
+<div>
+
+<p </p>
+  <img src="shopping.jpg" alt="DogFest Header" >
+</div>
+		
+<div><h1> Shopping </h1></div>
+
+<div><p>
+
+
+<h3>* Interactive toys</br></h3> 
+
+<h6>Interactive toys are the most coveted by humans and loved by dogs. They stimulate pets and keep them busy for a long time, being ideal for those dogs that have more energy and spend some time alone.</br></h6>
+
+</div>
+
+<h4>* Pet Insurance</br>
+
+<h6>Pets are part of people's lives across the planet. Currently, veterinary medicine has practically all the resources offered by human medicine that prolong, preserve and improve the quality of life of pets.
+
+</br></h6>
+
+<h5>* Hotel for Dogs</br></h5>
+<h6>Hotel for dogs is a business that offers as its main service the accommodation of puppies that need to stay somewhere while their owners need to do some activity that they can't keep up with.</br></h6>
+
+</div></p>
+
+    <a href="index.html" <button>Back Site</button></a>
+
+
+	
+
+  
+
+</body>
+
+</html>
